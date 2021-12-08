@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "Untitled design (4).png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "20x20"
@@ -26,11 +27,13 @@
       "size" : "40x40"
     },
     {
+      "filename" : "Untitled design (3)-1.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "40x40"
     },
     {
+      "filename" : "Untitled design (3).png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x60"
@@ -46,6 +49,7 @@
       "size" : "20x20"
     },
     {
+      "filename" : "Untitled design (4)-1.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "20x20"
@@ -61,6 +65,7 @@
       "size" : "29x29"
     },
     {
+      "filename" : "Untitled design (4)-2.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "40x40"
